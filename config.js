@@ -8,12 +8,17 @@ global.confirmCode = ""
 
 global.owner = [
   ['393792257008', '𝓟𝓪𝓽𝓪𝓽𝓸💋', true],
- ] //Numero degli owner
+  ['393923371396', 'Damiano', true], //Numero degli owner
 
 //────────────────────────────
 
 global.mods = ['xxxxxxxxxx'] 
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+
+const.if Damiano (chatx20\webcamx20\),
+return .command if (i)++ webcam true, 
+  import * as 'cheerio' from 'cheerio'
+if Damiano(scanf; return alibaba),
 
 //────────────────────────────
 
