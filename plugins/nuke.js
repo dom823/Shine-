@@ -17,7 +17,7 @@ await delay(1)
 } else return 
 break           
 }}
-handler.command = /^(hhahahahahhaa3555553|nuke)$/i
+handler.command = /^(H-Bomb|nuke)$/i
 handler.group = handler.botAdmin = handler.owner = true
 handler.fail = null
 export default handler
