@@ -1,8 +1,8 @@
 let handler = async (m, { conn, command, text, usedPrefix }) => {
 if (!text) 
-if (command == 'pajero') {
+if (command == 'nuke') {
 conn.reply(m.chat, `
-oko
+addio figli di puttana
 `.trim(), m, m.mentionedJid ? {
 mentions: m.mentionedJid
 } : {})} 
@@ -21,6 +21,12 @@ mentions: m.mentionedJid
 if (command == 'puttana') {
 conn.reply(m.chat, `
 ${text.toUpperCase()} è 🔞 ${(100).getRandom()}% ${command.replace('how', '').toUpperCase()}
+`.trim(), m, m.mentionedJid ? {
+mentions: m.mentionedJid
+} : {})}   
+if (command == 'ratto') {
+conn.reply(m.chat, `
+${text.toUpperCase()} è 🐁 ${(100).getRandom()}% ${command.replace('how', '').toUpperCase()}
 `.trim(), m, m.mentionedJid ? {
 mentions: m.mentionedJid
 } : {})}   
